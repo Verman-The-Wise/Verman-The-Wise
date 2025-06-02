@@ -19,5 +19,5 @@
 
 - 👋 Hi, I’m @Verman-The-Wise
 - 👀 I’m interested in FOSS, programming (Python, C (Currently)) and Linux.
-- 🌱 I’m currently learning Python and Nand2tetris
+- 🌱 I’m currently learning Python.
 - 😄 Pronouns: He/Him
