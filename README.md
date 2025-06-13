@@ -18,6 +18,6 @@
 
 
 - 👋 Hi, I’m @Verman-The-Wise
-- 👀 I’m interested in FOSS, programming (Python, C (Currently)) and Linux.
+- 👀 I’m interested in FOSS, programming (Python, C) and Linux.
 - 🌱 I’m currently learning Python.
 - 😄 Pronouns: He/Him
